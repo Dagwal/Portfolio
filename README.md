@@ -1,4 +1,4 @@
-# Dagim Wallelgnen's CV Website
+# Dagim Wallelgne's CV Website
 
 Welcome to the repository. This platform is developed using React and showcases my academic background, professional experiences, and various technical and research projects.
 
