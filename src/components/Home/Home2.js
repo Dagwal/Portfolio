@@ -18,7 +18,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I came with computing since i was 6th grade🧒.
+              I entered the field of computing six years ago, starting with video editing and subsequently delving deep into software development and Ethical hacking.🧒.
               <br />
               <br />I first started with Python then worked on web development for a while using HTML5 CSS3 and Javascript+Frameworks.
 And my favorite coding language has been Javascript and I'm conversant with 
